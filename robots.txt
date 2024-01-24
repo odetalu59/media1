@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://fblog.jp/superjp/sitemap.xml
+Sitemap: http://fblog.jp/gilajp/sitemap.xml
+Sitemap: http://fblog.jp/gojekpot/sitemap.xml
+Sitemap: http://fblog.jp/winstrike69/sitemap.xml
+Sitemap: http://fblog.jp/slotgacor/sitemap.xml
+Sitemap: http://fblog.jp/slotzeus/sitemap.xml
+Sitemap: http://fblog.jp/kaptenjackpot/sitemap.xml
+Sitemap: http://fblog.jp/boosterjp/sitemap.xml
+Sitemap: http://fblog.jp/kerajaanslot/sitemap.xml
+Sitemap: http://fblog.jp/pakong86/sitemap.xml
+Sitemap: http://fblog.jp/viral88/sitemap.xml
+Sitemap: http://fblog.jp/clan4d/sitemap.xml
+Sitemap: http://fblog.jp/dinamit4d/sitemap.xml
+Sitemap: http://fblog.jp/elang212/sitemap.xml
+Sitemap: http://fblog.jp/gori77/sitemap.xml
+Sitemap: http://fblog.jp/viral4d/sitemap.xml
+Sitemap: http://fblog.jp/playground88/sitemap.xml
